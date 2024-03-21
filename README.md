@@ -4,7 +4,7 @@
 
 An awesome project which help to understand the topics like Router, Hooks, Redux, Custom Hooks etc,
 
-[View Demo](https://myfirstapp-6e4c3.web.app/) . [Report Bug](https://github.com/Ravipal123) . [Request Features](https://github.com/Ravipal123)
+[View Demo](https://myfirstapp-6e4c3.web.app/) .
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -20,8 +20,8 @@ An awesome project which help to understand the topics like Router, Hooks, Redux
 
 
 ## About The Project
-<img width="916" alt="emart1" src="https://github.com/Ravipal123/e-commerce_project/assets/100295535/f2620286-cff1-4e61-b2b5-346b5849830f">
-<img width="918" alt="emart2" src="https://github.com/Ravipal123/e-commerce_project/assets/100295535/ae80278b-3a7b-4e4d-8db3-34ba27f071fc">
+<img width="916" alt="emart1" src="https://github.com/Prafull6307/E-commerce-website/assets/100295535/f2620286-cff1-4e61-b2b5-346b5849830f">
+<img width="918" alt="emart2" src="https://github.com/Prafull6307/E-commerce-website/assets/100295535/ae80278b-3a7b-4e4d-8db3-34ba27f071fc">
 
 Introducing our cutting-edge e-commerce website, seamlessly blending dark and light themes for a visually captivating experience. With a responsive design, it adapts flawlessly to any device, ensuring convenience for users on the go. Our category pages offer easy navigation, while the "Add to Cart" option simplifies purchasing decisions. Secure login functionality guarantees personalized shopping experiences. Experience enhanced convenience with our advanced filtering features, allowing users to refine searches effortlessly. Our commitment to quality shines through, as we prioritize clean code and adhere to industry standards. Embrace the opportunity to explore the versatility of Python frameworks, with a particular focus on AIOHTTP, showcasing our dedication to continuous learning and innovation. Join us on this exciting journey towards seamless online shopping experiences.
 
@@ -43,8 +43,7 @@ To get a local copy up and running follow these simple example steps.
 ```react-icons```
 ```reduxjs/toolkit```
 
-### Usage
-For more examples, please refer to the [Documentation](https://github.com/Ravipal123/e-commerce_pt).rojec
+
 
 ## Roadmap
 See the [open issues](https://www.linkedin.com/in/prafull-srivastava-a0298a24a/) for a list of proposed features (and known issues).
