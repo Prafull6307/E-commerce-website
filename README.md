@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 For more examples, please refer to the [Documentation](https://github.com/Ravipal123/e-commerce_pt).rojec
 
 ## Roadmap
-See the [open issues](https://github.com/Ravipal123/e-commerce_project) for a list of proposed features (and known issues).
+See the [open issues](https://www.linkedin.com/in/prafull-srivastava-a0298a24a/) for a list of proposed features (and known issues).
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
